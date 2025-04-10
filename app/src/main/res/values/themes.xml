@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.FacultyPermission" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/teal_500</item>
+        <item name="colorPrimaryVariant">@color/teal_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Background color -->
+        <item name="android:windowBackground">@color/light_gray</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Text appearance -->
+        <item name="android:textColor">@color/dark_gray</item>
+    </style>
+
+    <!-- Custom theme for FacultyHomeActivity -->
+    <style name="FacultyHomeTheme" parent="Theme.FacultyPermission">
+        <!-- Optional: Add specific styles for this activity -->
+    </style>
+</resources>

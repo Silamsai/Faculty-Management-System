@@ -1,0 +1,10 @@
+<resources>
+
+
+    <string-array name="leave_types">
+        <item>Casual Leave</item>
+        <item>Sick Leave</item>
+        <item>Emergency</item>
+        <item>Other</item>
+    </string-array>
+</resources>
