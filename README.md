@@ -80,4 +80,3 @@ We’d love your suggestions to improve this system! 🤝
 
 ---
 
-Want a `.gitignore` next? Or want me to generate some sample screenshots layout section for you? 😎
