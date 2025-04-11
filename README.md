@@ -77,6 +77,3 @@ spring.jpa.hibernate.ddl-auto=update
 Feel free to open issues or pull requests.
 We’d love your suggestions to improve this system! 🤝
 
-
----
-
